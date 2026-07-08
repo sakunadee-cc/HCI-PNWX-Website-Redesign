@@ -4,4 +4,4 @@ My contribution:
 - Created the user persona
 - Designed the interactive prototype in Figma
 - Designed the About Us and Search Results pages
-- Create the final Repoart
+- Create the final Report
